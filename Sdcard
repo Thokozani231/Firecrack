@@ -1,0 +1,7 @@
+
+Pkg install shefeeq Rahmat apt update
+git clone http://GitHub.com/Thokozani231/firecrack
+CD firecrack
+Pip2 install requests
+Pip2 install mechanized
+Python2 firecrack.py
